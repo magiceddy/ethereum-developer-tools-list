@@ -4,7 +4,7 @@
 - [Learning](#learning)
     - [Vettori di attacco](#vettori-di-attacco)
     - [Filosofia in generale](#filosofia-in-generale)
-    - [Regole generali da seguire](#pattern-generali-da-seguire)
+    - [Regole generali da seguire](#regole-generali-da-seguire)
     - [Prepatati al fallimento](#preparati-al-fallimento)
     - [Layout Smart Contract](#layout-smart-contract)
     - [Sicurezza Token](#sicurezza-token)
