@@ -16,7 +16,7 @@
 - [Tools](#tools)
     - [Visualizzazione](#visualizzazione)
     - [Analisi statica e dinamica](#analisi-statica-e-dinamica)
-    - [Test&Coverage](#test-&-coverage)
+    - [Test e Coverage](#test-e-coverage)
     - [Linters](#linters)
     - [OS](#os)
     - [Reversing](#reversing)
@@ -97,7 +97,7 @@ In questa sezione vengono presentati i tool di analisi e sviluppo di smart contr
 * [oyente](https://github.com/melonproject/oyente) - tool analisi smart contract
 * [actopus](https://github.com/quoscient/octopus) - analisi vulnerabilità e check su cosa viene memorizzato nello stack
 * [solstice](https://github.com/rajeevgopalakrishna/Solstice) - tool investigazione smart contract
-#### Test&Coverage
+#### Test e Coverage
 * [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - tool analisi coverage dei test
 * [meadown](https://github.com/MeadowSuite/Meadow) - unit test 
 * [waffle](https://github.com/EthWorks/Waffle) - libreria unit testing smart contract
