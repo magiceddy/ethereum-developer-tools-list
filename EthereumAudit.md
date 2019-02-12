@@ -12,7 +12,7 @@
     - [Formal Verification](#formal-verification)
     - [Test](#test)
     - [Audit Tutorial](#audit-tutorial)
-    - [Verie ed eventual](#learning-varie-ed-eventuali)
+    - [Leraning Verie ed eventual](#learning-varie-ed-eventuali)
 - [Tools](#tools)
     - [Visualizzazione](#visualizzazione)
     - [Analisi statica e dinamica](#analisi-statica-e-dinamica)
