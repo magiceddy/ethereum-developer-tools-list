@@ -280,6 +280,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
 * [Amberdata](https://amberdata.io/about) - explore tool
+* [alethio](https://aleth.io/)
 
 ### Other Miscellaneous Tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for building DApps fast.
