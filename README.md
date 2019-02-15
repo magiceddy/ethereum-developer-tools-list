@@ -279,6 +279,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Neufund - Smart Contract Watch](https://github.com/Neufund/smart-contract-watch) - A tool to monitor a number of smart contracts and transactions
 * [Scout](https://scout.cool/) - A live data feed of the activities and event logs of your smart contracts on Ethereum
 * [Chainlyt](https://www.chainlyt.io/main/dashboard/contract) - Explore smart contracts with decoded transaction data, see how the contract is used and search transactions with specific function calls
+* [amberdata](https://amberdata.io/about)
+* [alethio](https://aleth.io/)
 
 ### Other Miscellaneous Tools
 * [Truffle boxes](https://truffleframework.com/boxes/) - Packaged components for building DApps fast.
