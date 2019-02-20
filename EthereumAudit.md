@@ -56,6 +56,7 @@ In questo paragrafo si vogliono presentare tutta una serie di strumenti di learn
 * http://chriseth.github.io/notes/talks/safe_solidity/#/ - slide su come scrivere uno smart contract sicuro
 * https://blog.trailofbits.com/2018/09/05/contract-upgrade-anti-patterns/ - pattern di scrittura con analisi delle problematiche nella scrittura di smart contract aggiornabili
 * https://blog.trailofbits.com/2018/03/23/use-our-suite-of-ethereum-security-tools/ - suite di strumenti utilizzati da trailofbits per prevenire ed identificare problematiche di sicurezza
+* https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6 - save gas reducing bytecode
 #### Preparati al fallimento
 * https://consensys.github.io/smart-contract-best-practices/software_engineering/ - best practice da utilizzare per mitigare i comportamenti anomali degli smart contract
 * https://medium.com/@peterborah/we-need-fault-tolerant-smart-contracts-ec1b56596dbc - tecniche da utilizzare nel caso vengano scoperti bug nel codice e tecniche per aggiornare gli smart contract
@@ -71,6 +72,7 @@ In questo paragrafo si vogliono presentare tutta una serie di strumenti di learn
 #### Formal Verification
 * https://github.com/MaiaVictor/Formality - linguaggio su Formal verification
 * https://medium.com/ethworks/formal-verification-for-n00bs-part-1-b4781db2a383 - tutorial formal verification
+* https://github.com/leonardoalt/ethereum_formal_verification_overview - tool overview
 #### Test
 * https://blog.zeppelinos.org/testing-real-world-contract-upgrades/ - tecniche per testare l'upgrade di smart contract
 * https://hackernoon.com/minimal-solidity-contract-testing-with-ganache-and-jest-f735547d9643 - unit test smart contract con jest e ganache

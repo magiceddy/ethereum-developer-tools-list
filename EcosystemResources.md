@@ -89,6 +89,7 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Dapp University](http://www.dappuniversity.com) - Free Video Tutorials
 * [Attacks on Smart Contracts](https://www.cryptologie.net/article/423/attacks-on-ethereum-smart-contracts/)
 * [Zastrin](https://www.zastrin.com) - Paid courses on Solidity/Dapp Development
+* [Vyper Develop](https://www.bitrates.com/news/p/vyper-ethereums-contract-oriented-python-like-scripting-language-for-the-evm)
 
 #### Security best practices
 * [Smart contract best practices](https://github.com/ConsenSys/smart-contract-best-practices) - by ConsenSys
@@ -151,3 +152,4 @@ Many thanks to the 20+ contributors including [@corbpage](https://twitter.com/co
 * [Awesome Decentralized-Finance](https://github.com/ong/awesome-decentralized-finance) - A curated list of awesome decentralized finance projects, software, and resources
 * [DEX protocols](https://github.com/evbots/dex-protocols) - A list of protocols for decentralised exchange
 * [Ethereum Token Standards](https://github.com/PhABC/ethereum-token-standards-list) - An exhaustive list of Ethereum Token Standards
+* [Awesome Zeppelin](https://github.com/ZeppelinSolutions/awesome-zeppelin#security) -  learnings and influence how Zeppelin  work on our projects

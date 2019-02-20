@@ -180,6 +180,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
         * [ERC20-Token-Vault](https://steemit.com/ethereum/@nexusdev/dapp-a-day-18-erc20-token-vault)
         * [Authentication (RBAC)](https://steemit.com/ethereum/@nikolai/dapp-a-day-4-access-control-via-auth)
         * [...several more...](https://github.com/dapphub/dappsys)
+        * [Automatic-authentication-signature](https://medium.com/@wighawag/automatic-authentication-signatures-for-web3-dcbcbc64d6b5)
     * provides building blocks for the [MakerDAO](https://github.com/makerdao/maker-otc) or [The TAO](https://github.com/ryepdx/the-tao)
     * should be consulted before creating own, untested, solutions
     * usage is described in [Dapp-a-day 1-10](https://steemit.com/@nikolai) and [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
@@ -203,6 +204,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
     * [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 * [OpenZeppelin on Proxy Libraries](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd)
+* [Versioned Upgradable SC](https://hackernoon.com/how-to-write-upgradable-versioned-smart-contracts-in-solidity-910007057943)
 
 ### Infrastructure
 #### Ethereum Clients
@@ -368,3 +370,10 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
 * [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) -  A cross-platform hybrid hosting mechanism for web based decentralised applications
 * [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
+* [AssistJs](https://github.com/blocknative/assist) - Blocknative Assist widget for blockchain usability
+
+#### UI Design
+* [web3 design principles](https://medium.com/@lyricalpolymath/web3-design-principles-f21db2f240c1)
+
+#### Merkle-Tree
+* (https://github.com/liamzebedee/typescript-solidity-merkle-tree) - TypeScript Merkle tree that comes with Solidity proof verifier. Unit tested for your pleasure!
